@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "MN4KP1cxz3G0avYP+qXO3e2N4rjdm73dllhcfqV32jqJFP9TcXW0L26Df+AClAbMkG1z7zR5+l+7dal7eUP6Tg==",
+  "success": true,
+  "projectFilePath": "D:\\Etec\\2ºDS\\tecnico\\DS\\4BIM\\29-11-23\\ListaDeNomes\\WinFormsApp5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\migan\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\migan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\migan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\migan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
